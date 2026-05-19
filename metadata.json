@@ -1,0 +1,6 @@
+{
+  "name": "PHOTOBOOTH TRE-PAGIA",
+  "description": "Digital photobooth experience with various frame designs including News, Newspaper, and Character themes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
